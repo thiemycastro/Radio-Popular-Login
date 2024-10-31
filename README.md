@@ -1,6 +1,6 @@
 ## Projeto: Rádio Popular
 
-### Teste Automatizado: Verificação de Funcionalidade do Cadastro
+### Teste Automatizado: Verificação de Funcionalidade do Login
 
 ### Objetivo
 O objetivo deste teste é verificar é assegurar que o sistema de autenticação permite que usuários legítimos acessem suas contas de forma segura e eficaz, enquanto impede acessos não autorizados. O teste deve garantir que todos os requisitos funcionais e não funcionais do processo de login sejam atendidos, desde a validação de credenciais até a proteção contra tentativas de acesso maliciosas.
